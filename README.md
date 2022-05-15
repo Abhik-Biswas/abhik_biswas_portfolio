@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+![Profile Picture](https://drive.google.com/file/d/1RMKt_Htrzibj6MrilKQEVAGpWO3HcEpX/view?usp=sharing)
+## Abhik Biswas
 
 You can use the [editor on GitHub](https://github.com/Abhik-Biswas/abhik_biswas_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
